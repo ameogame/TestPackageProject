@@ -1,0 +1,10 @@
+{
+    "name":"testpackage",
+    "displayName": "Test Package",
+    "version": "2.6.10",
+    "unity": "2020.3",
+    "description": "This package is Test",
+    "keywords": "",
+    "category": "",
+    "dependencies": {}
+}
